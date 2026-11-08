@@ -1,0 +1,5 @@
+membuat function penting terlebih dahulu:
+	- auth
+	- fetch api
+	- store cache api
+	
